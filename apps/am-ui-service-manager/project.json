@@ -1,0 +1,9 @@
+{
+  "name": "am-ui-service-manager",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/am-ui-service-manager/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project am-ui-service-manager --web",
+  "targets": {}
+}

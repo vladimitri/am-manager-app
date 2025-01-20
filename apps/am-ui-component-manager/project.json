@@ -1,0 +1,9 @@
+{
+  "name": "am-ui-component-manager",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/am-ui-component-manager/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project am-ui-component-manager --web",
+  "targets": {}
+}
